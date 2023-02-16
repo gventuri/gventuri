@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Gabriele</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gventuri&label=Profile%20views&color=0e75b6&style=flat" alt="gventuri" /> </p>
-<h3 align="center">A passionate Software Engineer from Italy 🇮🇹 living in Germany 🇩🇪</h3>
+<h3 align="center">A passionate Startupper & Software Engineer from Italy 🇮🇹 living in Germany 🇩🇪</h3>
 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
