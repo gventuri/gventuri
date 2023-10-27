@@ -14,8 +14,6 @@
 <hr />
 
 - 👀 I’m interested in **startups**, **ai** and **blockchain**.
-- 🌱 I’m currently learning **how to fine-tune Stable Diffusion**.
-- 💞️ I’m looking to collaborate on something new and disrupting.
 
 <h3 align="center">📫 Reach me out:</h3>
 <div align="center">
